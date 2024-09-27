@@ -10,7 +10,7 @@
         },
         {
             "type": "bitmap",
-            "file": "se:emojis/showrunner.png",
+            "file": "se:textures/emojis/showrunner.png",
             "ascent": 10,
             "height": 10,
             "chars": [
@@ -19,7 +19,7 @@
         },
         {
             "type": "bitmap",
-            "file": "se:emojis/showrunner.png",
+            "file": "se:textures/emojis/showrunner.png",
             "ascent": 10,
             "height": 10,
             "chars": [
