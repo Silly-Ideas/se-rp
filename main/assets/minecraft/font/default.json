@@ -2,14 +2,14 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:negative_spaces.ttf",
+            "file": "minecraft:font/negative_spaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0
         },
         {
             "type": "bitmap",
-            "file": "se:textures/emojis/showrunner.png",
+            "file": "se:emojis/showrunner.png",
             "ascent": 10,
             "height": 10,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "se:textures/emojis/showrunner.png",
+            "file": "se:emojis/showrunner.png",
             "ascent": 10,
             "height": 10,
             "chars": [
