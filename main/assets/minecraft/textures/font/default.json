@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "se:textures/emojis/showrunner.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "\ue218"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "se:textures/emojis/showrunner.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        }
+	]
+}
