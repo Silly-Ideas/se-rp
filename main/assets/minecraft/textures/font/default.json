@@ -1,6 +1,14 @@
 {
     "providers": [
         {
+            "type": "ttf",
+            "file": "minecraft:font/zenfont.ttf",
+            "shift": [0, 0.7],
+			"size": 10.0,
+			"oversample": 10.0
+
+        },
+        {
             "type": "bitmap",
             "file": "se:textures/emojis/showrunner.png",
             "ascent": 10,
