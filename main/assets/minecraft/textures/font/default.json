@@ -10,7 +10,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/emojis/showrunner.png",
+            "file": "se:emojis/showrunner.png",
             "ascent": 10,
             "height": 10,
             "chars": [
