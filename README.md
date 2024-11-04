@@ -1,2 +1,2 @@
 # se-rp
-seleno events RP
+cleotri RP
